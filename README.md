@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa-abbasi&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-abbasi" /> </p>
 
-- 📝 I’m currently learning **Python, C++, HTML, Java, JS**
+- 📝 I’m currently learning **ARTIFICIAL INTELLIGENCE**
 
 - 📫 How to reach me **huzaifaa66asi@gmail.com**
 
