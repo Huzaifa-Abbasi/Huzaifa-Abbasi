@@ -49,6 +49,11 @@
 </p>
 
 ###
+### ✍️ Random Dev Quote
+<img align="left" alt="Random Dev Quote" width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+### 😂 Random Dev Meme
+<img align="right" alt="Random Dev meme" src="https://source.unsplash.com/random" width="400" />
 
 <br clear="both">
 
@@ -61,5 +66,7 @@
 ###
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+
 
 ###
