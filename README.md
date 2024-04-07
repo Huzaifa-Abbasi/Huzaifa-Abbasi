@@ -48,16 +48,15 @@
 <a href="https://instagram.com/ihuzaifaabbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihuzaifaabbasi" height="30" width="40" /></a>
 </p>
 
-###
 ### ✍️ Random Dev Quote
-<img align="left" alt="Random Dev Quote" width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
+  <img  alt="Random Dev Quote" width = "400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
+  
 ### 😂 Random Dev Meme
-<img align="right" alt="Random Dev meme" src='https://randommeme-five.vercel.app/' width="400" />
+  <img align="left" alt="Random Dev meme" src='https://randommeme-five.vercel.app/' width="400" />
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifa-abbasi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-abbasi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=huzaifa-abbasi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -65,8 +64,5 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img aling="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-
-
-###
