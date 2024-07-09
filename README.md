@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Abbasi.</h1>
-<h3 align="center">A passionate A.I Enthusiast from Pakistan.</h3>
+<h3 align="center">A passionate A.I Student from Pakistan.</h3>
 
 ###
 
