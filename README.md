@@ -15,7 +15,7 @@
 
 - 📝 I’m currently learning **ARTIFICIAL INTELLIGENCE**
 
-- 📫 How to reach me **huzaifaa66asi@gmail.com**
+- 📫 How to reach me **23bsai21@gmail.com**
 
 - ⚡ Fun fact **Gamer Extraordinaire.**
 ###
@@ -51,9 +51,6 @@
 ### ✍️ Random Dev Quote
   <img  alt="Random Dev Quote" width = "400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
   
-### 😂 Random Dev Meme
-  <img align="left" alt="Random Dev meme" src='https://randommeme-five.vercel.app/' width="400" />
-
 <br clear="both">
 
 <div align="center">
