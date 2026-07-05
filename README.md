@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img align = "right" alt="Coding" width="400" src="https:https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif?raw=true">
+<img align = "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akadjoker/akadjoker/main/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa-abbasi&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-abbasi" /> </p>
 
